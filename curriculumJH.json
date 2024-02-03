@@ -1,0 +1,28 @@
+{
+    "Resumen": "Desarrollador web con experiencia en tecnologías front-end y diseño de interfaces.",
+    "DatosPersonales": {
+      "Nombre": "Jorge Herrera",
+      "Dirección": "Avenida 456, Ciudad XYZ",
+      "Teléfonos": ["987-654-3210"],
+      "Email": "jorge@example.com",
+      "RedesSociales": ["linkedin.com/in/jorgeh"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela LMN",
+      "EnseñanzaMedia": "Colegio OPQ",
+      "EducacionUniversitaria": "Ingeniería en Informática, Universidad RST"
+    },
+    "Laboral": {
+      "Pasantia": "Empresa PQR Web",
+      "Trabajos": [
+        {"Tipo": "Empleado", "Empresa": "Desarrollo Front-end ABC"},
+        {"Tipo": "Freelancer", "Empresa": "Proyecto de Diseño Web XYZ"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "LenguajeDesarrollo": ["JavaScript", "HTML", "CSS"],
+      "Frameworks": ["React", "Angular"],
+      "Herramientas": ["VSCode", "Git"]
+    },
+    "InteresesPersonales": ["Tecnología", "Deporte", "Cine"]
+  }

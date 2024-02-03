@@ -1,0 +1,28 @@
+{
+    "Resumen": "Desarrollador web especializado en tecnologías de frontend.",
+    "DatosPersonales": {
+      "Nombre": "Sara Fernández",
+      "Dirección": "Avenida 456, Ciudad XYZ",
+      "Teléfonos": ["987-654-3210"],
+      "Email": "sara@example.com",
+      "RedesSociales": ["linkedin.com/in/saraf"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela UVW",
+      "EnseñanzaMedia": "Colegio ABC",
+      "EducacionUniversitaria": "Ingeniería en Informática, Universidad DEF"
+    },
+    "Laboral": {
+      "Pasantia": "Empresa PQR Web",
+      "Trabajos": [
+        {"Tipo": "Empleado", "Empresa": "Desarrollo Front-end XYZ"},
+        {"Tipo": "Freelancer", "Empresa": "Proyecto de Diseño Web ABC"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "LenguajeDesarrollo": ["JavaScript", "HTML", "CSS"],
+      "Frameworks": ["React", "Angular"],
+      "Herramientas": ["VSCode", "Git"]
+    },
+    "InteresesPersonales": ["Tecnología", "Deporte", "Música"]
+  }

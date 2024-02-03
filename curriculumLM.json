@@ -1,0 +1,28 @@
+{
+    "Resumen": "Diseñadora gráfica con enfoque en branding y diseño editorial.",
+    "DatosPersonales": {
+      "Nombre": "Lucía Martínez",
+      "Dirección": "Calle 789, Ciudad XYZ",
+      "Teléfonos": ["987-654-3210"],
+      "Email": "lucia@example.com",
+      "RedesSociales": ["linkedin.com/in/luciam"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela LMN",
+      "EnseñanzaMedia": "Colegio OPQ",
+      "EducacionUniversitaria": "Diseño Gráfico, Universidad RST"
+    },
+    "Laboral": {
+      "Pasantia": "Estudio de Diseño UVW",
+      "Trabajos": [
+        {"Tipo": "Freelancer", "Empresa": "Proyecto Independiente"},
+        {"Tipo": "Empleado", "Empresa": "Agencia Creativa UVW"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "SoftwareDiseño": ["Adobe Illustrator", "Photoshop", "InDesign"],
+      "Herramientas": ["Wacom Tablet"],
+      "OtrosSoftwares": ["Sketch", "Figma"]
+    },
+    "InteresesPersonales": ["Arte", "Cine", "Tecnología"]
+  }

@@ -1,0 +1,28 @@
+{
+    "Resumen": "Ingeniera de datos apasionada por el análisis y visualización de datos.",
+    "DatosPersonales": {
+      "Nombre": "Pedro López",
+      "Dirección": "Avenida 456, Ciudad ABC",
+      "Teléfonos": ["123-456-7890"],
+      "Email": "pedro@example.com",
+      "RedesSociales": ["linkedin.com/in/pedrol"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela PQR",
+      "EnseñanzaMedia": "Colegio DEF",
+      "EducacionUniversitaria": "Ciencias de la Computación, Universidad UVW"
+    },
+    "Laboral": {
+      "Pasantia": "Empresa ASD",
+      "Trabajos": [
+        {"Tipo": "Empleado", "Empresa": "Empresa de Consultoría ZXC"},
+        {"Tipo": "Freelancer", "Empresa": "Proyecto de Análisis ABC"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "LenguajesProgramacion": ["Python", "SQL"],
+      "Herramientas": ["Jupyter", "Tableau"],
+      "BasesDeDatos": ["MySQL", "MongoDB"]
+    },
+    "InteresesPersonales": ["Ciencia de Datos", "Libros", "Deporte"]
+  }
