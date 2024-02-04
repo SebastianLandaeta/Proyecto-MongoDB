@@ -1,0 +1,28 @@
+{
+    "Resumen": "Analista de datos con experiencia en el procesamiento de grandes volúmenes de datos.",
+    "DatosPersonales": {
+      "Nombre": "Laura González",
+      "Dirección": "Avenida 789, Ciudad XYZ",
+      "Teléfonos": ["987-654-3210"],
+      "Email": "laura@example.com",
+      "RedesSociales": ["linkedin.com/in/laurag"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela XYZ",
+      "EnseñanzaMedia": "Colegio ABC",
+      "EducacionUniversitaria": "Ciencias de la Computación, Universidad DEF"
+    },
+    "Laboral": {
+      "Pasantia": "Empresa PQR Analytics",
+      "Trabajos": [
+        {"Tipo": "Empleado", "Empresa": "Empresa de Datos UVW"},
+        {"Tipo": "Freelancer", "Empresa": "Proyecto de Análisis XYZ"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "LenguajesProgramacion": ["Python", "R"],
+      "Herramientas": ["Pandas", "Tableau"],
+      "BasesDeDatos": ["SQL", "MongoDB"]
+    },
+    "InteresesPersonales": ["Ciencia de Datos", "Viajes", "Música"]
+  }

@@ -1,0 +1,28 @@
+{
+    "Resumen": "Diseñador de experiencia de usuario (UX) especializado en interfaces modernas.",
+    "DatosPersonales": {
+      "Nombre": "Elena Gómez",
+      "Dirección": "Calle 012, Ciudad XYZ",
+      "Teléfonos": ["123-456-7890"],
+      "Email": "elena@example.com",
+      "RedesSociales": ["linkedin.com/in/elenag"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela QWE",
+      "EnseñanzaMedia": "Colegio ASD",
+      "EducacionUniversitaria": "Diseño de Interacción, Universidad ZXC"
+    },
+    "Laboral": {
+      "Pasantia": "Estudio de Diseño OPQ",
+      "Trabajos": [
+        {"Tipo": "Empleado", "Empresa": "Agencia de Diseño XYZ"},
+        {"Tipo": "Freelancer", "Empresa": "Proyecto de Interfaces ABC"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "HerramientasDiseño": ["Sketch", "Figma", "Adobe XD"],
+      "Frameworks": ["React", "Vue.js"],
+      "OtrosSoftwares": ["InVision", "Zeplin"]
+    },
+    "InteresesPersonales": ["Arte", "Música", "Cine"]
+  }

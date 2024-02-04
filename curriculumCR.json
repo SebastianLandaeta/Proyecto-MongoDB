@@ -1,0 +1,29 @@
+{
+    "Resumen": "Desarrollador full-stack con experiencia en tecnologías modernas.",
+    "DatosPersonales": {
+      "Nombre": "Carlos Ramírez",
+      "Dirección": "Calle 012, Ciudad XYZ",
+      "Teléfonos": ["123-456-7890"],
+      "Email": "carlos@example.com",
+      "RedesSociales": ["linkedin.com/in/carlosr"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela QWE",
+      "EnseñanzaMedia": "Colegio ASD",
+      "EducacionUniversitaria": "Ingeniería en Sistemas, Universidad ZXC"
+    },
+    "Laboral": {
+      "Pasantia": "Empresa QAZ",
+      "Trabajos": [
+        {"Tipo": "Empleado", "Empresa": "Startup Innovadora XYZ"},
+        {"Tipo": "Freelancer", "Empresa": "Proyecto Web ABC"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "LenguajeDesarrollo": ["JavaScript", "Node.js", "Python"],
+      "Frameworks": ["React", "Django"],
+      "BasesDeDatos": ["MongoDB", "MySQL"],
+      "OtrosSoftwares": ["VSCode", "Git"]
+    },
+    "InteresesPersonales": ["Tecnología", "Deporte", "Cine"]
+  }

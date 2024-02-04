@@ -1,0 +1,29 @@
+{
+    "Resumen": "Analista de datos con enfoque en análisis predictivo y modelado estadístico.",
+    "DatosPersonales": {
+      "Nombre": "Gabriela Ramírez",
+      "Dirección": "Calle 012, Ciudad XYZ",
+      "Teléfonos": ["123-456-7890"],
+      "Email": "gabriela@example.com",
+      "RedesSociales": ["linkedin.com/in/gabrielar"]
+    },
+    "Educacion": {
+      "EnseñanzaBasica": "Escuela QWE",
+      "EnseñanzaMedia": "Colegio ASD",
+      "EducacionUniversitaria": "Estadística, Universidad ZXC"
+    },
+    "Laboral": {
+      "Pasantia": "Empresa OPQ Analytics",
+      "Trabajos": [
+        {"Tipo": "Empleado", "Empresa": "Consultoría de Datos XYZ"},
+        {"Tipo": "Freelancer", "Empresa": "Proyecto de Modelado ABC"}
+      ]
+    },
+    "ConocimientosTecnicos": {
+      "LenguajesProgramacion": ["R", "Python"],
+      "Librerias": ["Scikit-Learn", "TensorFlow"],
+      "Herramientas": ["RStudio", "Jupyter Notebook"],
+      "BasesDeDatos": ["SQL", "MongoDB"]
+    },
+    "InteresesPersonales": ["Ciencia de Datos", "Libros", "Ajedrez"]
+  }
