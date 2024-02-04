@@ -1,0 +1,729 @@
+[{
+  "_id": {
+    "$oid": "65be67c0d14335fa617496bc"
+  },
+  "Resumen": "Desarrolladora web apasionado con experiencia en proyectos frontend y backend.",
+  "DatosPersonales": {
+    "Nombre": "María García",
+    "Dirección": "Urb. Los Próceres, Sector 2, Casa 3",
+    "Teléfono(s)": [
+      "+58 416-1450235"
+    ],
+    "Email": "maria_garcia@gmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/mariag",
+      "Twitter": "@mariag_dev",
+      "Instagram": "@marigar_dev"
+    }
+  },
+  "Educación": {
+    "Básica": "U.E.C María Montessori.",
+    "Media": "Colegio Divino Niño",
+    "Universitaria": "Universidad Nacional Experimental de Guayana, Ingeniería en Informática",
+    "Otros": [
+      "Curso de Desarrollo Web Avanzado",
+      "Certificación en UX/UI Design"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Amazon",
+      "Cargo": "Desarrollador Junior",
+      "Período": "Enero 2021 - Junio 2021"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Microsoft",
+        "Cargo": "Desarrollador Full Stack",
+        "Período": "2019 - 2020"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "LenguajeDesarrollo": [
+      "JavaScript",
+      "Python",
+      "PHP"
+    ],
+    "BasesDeDatos": [
+      "MongoDB",
+      "MySQL",
+      "Apache Cassandra"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code"
+    ]
+  },
+  "InteresesPersonales": [
+    "Videojuegos",
+    "Viajes",
+    "Ping Pong"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be6a32d14335fa617496be"
+  },
+  "Resumen": "Soy un profesional apasionado por la tecnología y el desarrollo de software. Con una sólida formación académica y experiencia laboral diversa, estoy comprometido con la excelencia en cada proyecto en el que participo.",
+  "DatosPersonales": {
+    "Nombre": "Juan Pérez",
+    "Dirección": "Urb. La Paragua, Edificio 1-7-B, #4",
+    "Email": "juan_perez@gmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/juanperez",
+      "Twitter": "@juanperez"
+    },
+    "Teléfono(s)": [
+      "+58 424-9450235",
+      "+58 416-6543210"
+    ]
+  },
+  "Educación": {
+    "Otros": [
+      "Curso de Desarrollo Web Avanzado",
+      "Certificación en Gestión de Proyectos"
+    ],
+    "Básica": "U.E.C San Francisco de Asís.",
+    "Media": "U.E.C San Francisco de Asís.",
+    "Universitaria": "Universidad Tech, Licenciatura en Ingeniería Informática"
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "TechCorp",
+      "Cargo": "Desarrollador Junior",
+      "Período": "Enero 2016 - Mayo 2016"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Hiring-Group",
+        "Cargo": "Desarrollador Full Stack",
+        "Período": "2017 - 2019"
+      },
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Innovate Solutions",
+        "Cargo": "Analista de Sistemas",
+        "Período": "2019 - 2021"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows",
+      "Linux"
+    ],
+    "LenguajeDesarrollo": [
+      "JavaScript",
+      "Python",
+      "Java"
+    ],
+    "BasesDeDatos": [
+      "MongoDB",
+      "MySQL"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "Visual Studio Code"
+    ]
+  },
+  "InteresesPersonales": [
+    "Deportes",
+    "Música",
+    "Animales"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be6ea1d14335fa617496bf"
+  },
+  "Resumen": "Experto en software con experiencia en desarrollo de aplicaciones móviles y seguridad informática.",
+  "DatosPersonales": {
+    "Nombre": "Carlos Rodríguez",
+    "Dirección": "Carrera 123, Ciudad Principal",
+    "Email": "carlos_rodriguez@hotmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/carlosr",
+      "Twitter": "@carlosss_dev"
+    },
+    "Teléfono(s)": [
+      "+58 412-7812235"
+    ]
+  },
+  "Educación": {
+    "Otros": [
+      "Curso de Desarrollo Web Avanzado",
+      "Certificación en Gestión de Proyectos"
+    ],
+    "Básica": "U.E.C Las Nieves.",
+    "Media": "U.E.C Libertad.",
+    "Universitaria": "Universidad Central de Venezuela, Licenciatura en Computación"
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Corpoelec",
+      "Cargo": "Desarrollador Junior",
+      "Período": "Enero 2012 - Mayo 2012"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "PDVSA",
+        "Cargo": "Desarrolador en automatización de procesos",
+        "Período": "2014 - 2015"
+      },
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Micro-Cherry",
+        "Cargo": "Game designer",
+        "Período": "2021 - 2022"
+      },
+      {
+        "Tipo": "Emprendedor",
+        "Empresa": "Carlos-CS",
+        "Cargo": "Dueño",
+        "Período": "2022 - Presente"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows"
+    ],
+    "LenguajeDesarrollo": [
+      "JavaScript",
+      "PHP",
+      "C",
+      "HTML",
+      "CSS"
+    ],
+    "BasesDeDatos": [
+      "MySQL",
+      "Cassandra",
+      "Oracle"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "Visual Studio Code",
+      "Flutter",
+      "Android Studio"
+    ]
+  },
+  "InteresesPersonales": [
+    "Tocar la guitarra",
+    "Cine"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be7daad14335fa617496c1"
+  },
+  "Resumen": "Ingeniero en Informática especializado en el desarrollo de aplicaciones web y móviles, con experiencia en proyectos tanto frontend como backend. Apasionado por la resolución de problemas y la creación de soluciones innovadoras.",
+  "DatosPersonales": {
+    "Nombre": "Marcos Jiménez",
+    "Dirección": "Urb. Los Mangos, Residencia Doña Lamia 1, Casa 17",
+    "Teléfono(s)": [
+      "+58 416-1450555",
+      "+58 416-2378825"
+    ],
+    "Email": "markdvcs@gmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/mmjd_dev",
+      "Instagram": "@mmjd_soft"
+    }
+  },
+  "Educación": {
+    "Básica": "U.E.C Las Moreas.",
+    "Media": "U.E.C Las Moreas.",
+    "Universitaria": "Universidad Católica Andrés Bello, Ingeniería en Informática",
+    "Otros": [
+      "Curso de Laravel desde Cero",
+      "Certificación en Django",
+      "Curso de Inglés Técnico",
+      "Curso de ParrotOS"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "NVIDIA",
+      "Cargo": "Desarrollador de Extensiones",
+      "Período": "Julio 2016 - Diciembre 2016"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Freelancer",
+        "Cargo": "Desarrollador Frontend",
+        "Período": "2018 - 2019"
+      },
+      {
+        "Tipo": "Emprendedor",
+        "Empresa": "Windspro",
+        "Cargo": "Dueño",
+        "Período": "2019 - Presente"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows",
+      "MacOS"
+    ],
+    "LenguajeDesarrollo": [
+      "Dart",
+      "Python",
+      "Go",
+      "C#"
+    ],
+    "BasesDeDatos": [
+      "MongoDB",
+      "MySQL",
+      "Apache Cassandra",
+      "MariaDB",
+      "PostgreSQL"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "GitKraken",
+      "Visual Studio Code"
+    ]
+  },
+  "InteresesPersonales": [
+    "Baseball",
+    "Tiempo en familia",
+    "Tenis",
+    "Crossfit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65be955076f5803188720f38"
+  },
+  "Resumen": "Programadora flexible, me adapto a cualquier proyecto y aprendo rápido.",
+  "DatosPersonales": {
+    "Nombre": "Andrea Roa",
+    "Dirección": "Urb. Divino Niño, Residencia Esplendor, Casa 1",
+    "Teléfono(s)": [
+      "+58 416-1450555",
+      "+58 416-2378825",
+      "+58 412-7456812"
+    ],
+    "Email": "devroadre@gmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/devroadre",
+      "Instagram": "@devroadre",
+      "Facebook": "facebook.com/andrea.roa.124"
+    }
+  },
+  "Educación": {
+    "Básica": "U.E.C Las Nieves",
+    "Media": "U.E.C Arístides Bastidas",
+    "Universitaria": "New York University, Computer Science",
+    "Otros": [
+      "Curso de Unity desde Cero",
+      "Curso Avanzado de SCRUM"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Ford",
+      "Cargo": "Desarrollador de software automotriz",
+      "Período": "Marzo 2017 - Octubre 2017"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Ford",
+        "Cargo": "Desarrollador de software automotriz",
+        "Período": "2017 - Presente"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "MacOS"
+    ],
+    "LenguajeDesarrollo": [
+      "Python",
+      "Go",
+      "C#",
+      "Assembly"
+    ],
+    "BasesDeDatos": [
+      "PostgreSQL"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "Sublime Text"
+    ]
+  },
+  "InteresesPersonales": [
+    "Patinaje artístico",
+    "Gimnasio"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bebe63881daf4faa1dd77d"
+  },
+  "Resumen": "Desarrolladora movil, experta en sistemas Apple y en diseño de videojuegos.",
+  "DatosPersonales": {
+    "Nombre": "Camila Cabello",
+    "Dirección": "Av. Andrés Eloy Blanco, Calle Colón, Casa 45",
+    "Teléfono(s)": [
+      "+58 424-0011456"
+    ],
+    "Email": "camila_dev_coder@yahoo.com",
+    "RedesSociales": {
+      "Instagram": "@cam1langa",
+      "Facebook": "facebook.com/camila.cabello"
+    }
+  },
+  "Educación": {
+    "Básica": "Colegio Miau",
+    "Media": "Colegio Guau",
+    "Universitaria": "Universidad Nacional Abierta, Ingeniería en Sistemas",
+    "Otros": [
+      "Curso Avanzado de Python",
+      "Certificado en Flutter",
+      "Certificado en Android Studio"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Kingwin",
+      "Cargo": "Desarrollo Movil",
+      "Período": "Marzo 2021 - Julio 2021"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Microsoft",
+        "Cargo": "Desarrollador Movil",
+        "Período": "2021 - 2022"
+      },
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Ubisoft",
+        "Cargo": "Desarrollador de videojuegos moviles",
+        "Período": "2022 - Presente"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows",
+      "MacOS"
+    ],
+    "LenguajeDesarrollo": [
+      "Shift",
+      "Go",
+      "C#",
+      "Objetive-C"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "Sublime Text",
+      "Unity"
+    ]
+  },
+  "InteresesPersonales": [
+    "Videojuegos",
+    "Gimnasio",
+    "Cine",
+    "Animales"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bf9e054896faf616bfc14f"
+  },
+  "Resumen": "Experto en seguridad informática y redes, me encanta todo lo que tenga que ver con hacking ético.",
+  "DatosPersonales": {
+    "Nombre": "Matías Andrade",
+    "Dirección": "Av. Andrés Eloy Blanco, Calle Colón, Casa 45",
+    "Teléfono(s)": [
+      "+58 424-7513459"
+    ],
+    "Email": "sokollmat@gmail.com",
+    "RedesSociales": {
+      "Instagram": "@s0koll",
+      "Facebook": "facebook.com/matías.andrade.coder"
+    }
+  },
+  "Educación": {
+    "Básica": "U.E.C Monte Carmelo",
+    "Media": "U.E.C Cymos",
+    "Universitaria": "Universidad de Antioquia, Cyberseguridad",
+    "Otros": [
+      "Curso Avanzado de Python",
+      "Certificado en seguridad de la información"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Facebook",
+      "Cargo": "Manejo de servidores",
+      "Período": "Marzo 2022 - Julio 2022"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "CISCO",
+        "Cargo": "Pentester",
+        "Período": "2022 - 2023"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Linux",
+      "MacOS"
+    ],
+    "LenguajeDesarrollo": [
+      "Python",
+      "C/C++",
+      "C#"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code",
+      "Sublime Text"
+    ]
+  },
+  "InteresesPersonales": [
+    "Gimnasio",
+    "Cine",
+    "Devjams"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfa5f34896faf616bfc150"
+  },
+  "Resumen": "Científica de datos y matemática, quiero aportar algo a la sociedad y dejar mi huella en la sociedad.",
+  "DatosPersonales": {
+    "Nombre": "Melisa Moreno",
+    "Dirección": "Urb. Los Mangos, Residencia Doña Lamia 2, Casa 9",
+    "Teléfono(s)": [
+      "+58 416-4756812"
+    ],
+    "Email": "melcoders@gmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/melcoders",
+      "Twitter": "@melcoders",
+      "Instagram": "melcoders"
+    }
+  },
+  "Educación": {
+    "Básica": "Primaria El Trébol de Oro",
+    "Media": "U.E.C Blaise Pascal",
+    "Universitaria": [
+      "Universidad Católica Andrés Bello, Ingeniería en Informática",
+      "Universidad Central de Venezuela, Licenciatura en Matemática"
+    ],
+    "Otros": [
+      "Curso de Marca Personal",
+      "Curso de Python Para Ciencias de Datos",
+      "Curso de Inglés Técnico"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Google",
+      "Cargo": "Analista de datos",
+      "Período": "Julio 2013 - Diciembre 2013"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "CERN",
+        "Cargo": "Analista de datos",
+        "Período": "2014 - Presente"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows"
+    ],
+    "LenguajeDesarrollo": [
+      "Python",
+      "Rust",
+      "MatLab"
+    ],
+    "BasesDeDatos": [
+      "MySQL"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "MatLab",
+      "Visual Studio Code"
+    ]
+  },
+  "InteresesPersonales": [
+    "Tenis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfb3b84896faf616bfc151"
+  },
+  "Resumen": "Me apasiona la inteligencia artificial, el aprendizaje automático y todo lo referente a la automatización de procesos.",
+  "DatosPersonales": {
+    "Nombre": "Luis Zamora",
+    "Dirección": "Urb. Urdaneta, Calle 3, Manzana 4, Casa 4",
+    "Teléfono(s)": [
+      "+58 412-7755114"
+    ],
+    "Email": "luluzam14@gmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/lulucode"
+    }
+  },
+  "Educación": {
+    "Básica": "U.E.C Moral y Luces",
+    "Media": "U.E.C Arístides Bastidas",
+    "Universitaria": "California University, Software engineering",
+    "Otros": [
+      "Curso de Python para inteligencia artificial",
+      "Curso de Tensorflow",
+      "Certificado en Prolog"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Google",
+      "Cargo": "Desarrollador junior",
+      "Período": "Marzo 2020 - Octubre 2020"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "OpenAI",
+        "Cargo": "Desarrollador de motor de lenguaje",
+        "Período": "2021 - 2022"
+      },
+      {
+        "Tipo": "Emprendedor",
+        "Empresa": "LogoIA",
+        "Cargo": "Dueño",
+        "Período": "2022 - Presente"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows",
+      "Linux"
+    ],
+    "LenguajeDesarrollo": [
+      "Python",
+      "Go",
+      "C#",
+      "Assembly",
+      "Prolog"
+    ],
+    "BasesDeDatos": [
+      "PostgreSQL",
+      "MaríaDB",
+      "MongoDB"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "Sublime Text",
+      "TensorFlow"
+    ]
+  },
+  "InteresesPersonales": [
+    "Tiempo en familia",
+    "Gimnasio"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bfbb414896faf616bfc152"
+  },
+  "Resumen": "Un tipazo",
+  "DatosPersonales": {
+    "Nombre": "Miguel Anton",
+    "Dirección": "Urb. Los Coquitos, Sector 7, Casa 78",
+    "Teléfono(s)": [
+      "+58 416-7476894"
+    ],
+    "Email": "antoon78@gmail.com",
+    "RedesSociales": {
+      "LinkedIn": "linkedin.com/in/antoon78",
+      "Twitter": "@anto0n78",
+      "Instagram": "@antonn78"
+    }
+  },
+  "Educación": {
+    "Básica": "U.E.C María Montessori.",
+    "Media": "Colegio Nueve Estrellas",
+    "Universitaria": "Universidad Nacional Experimental de Guayana, Ingeniería en Informática",
+    "Otros": [
+      "Curso de Desarrollo Web Avanzado",
+      "Certificación en UX/UI Design"
+    ]
+  },
+  "Laboral": {
+    "Pasantía": {
+      "Empresa": "Amazon",
+      "Cargo": "Desarrollador del Market",
+      "Período": "Enero 2022 - Marzo 2022"
+    },
+    "Trabajos": [
+      {
+        "Tipo": "Empleado",
+        "Empresa": "Square Enix",
+        "Cargo": "Desarrollador Full Stack",
+        "Período": "2023 - Presente"
+      }
+    ]
+  },
+  "ConocimientosTécnicos": {
+    "OS": [
+      "Windows",
+      "Linux",
+      "MacOS"
+    ],
+    "LenguajeDesarrollo": [
+      "C#",
+      "Python",
+      "PHP",
+      "Lua"
+    ],
+    "BasesDeDatos": [
+      "MongoDB",
+      "MySQL",
+      "Apache Cassandra",
+      "TygerGraph"
+    ],
+    "OtrosSoftwares": [
+      "Git",
+      "GitHub",
+      "Visual Studio Code"
+    ]
+  },
+  "InteresesPersonales": [
+    "Videojuegos",
+    "Viajes",
+    "Ping Pong",
+    "Cine"
+  ]
+}]
