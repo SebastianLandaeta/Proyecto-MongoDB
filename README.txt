@@ -18,8 +18,89 @@ db.getSiblingDB("Proy2-MongoBD").Curriculum.updateOne(
 hacer busquedas de interes 
 db.getSiblingDB("Proy2-MongoBD").Curriculum.findOne({ "_id": ObjectId("65be67c0d14335fa617496bc") })
 
+db.getSiblingDB("Proy2-MongoBD").Curriculum.find({
+   $or: [
+      { "resumen": "Un tipazo" },
+      { "_id": ObjectId("65be67c0d14335fa617496bc") }
+   ]
+})
+
+
 eliminar un documento a partir del ID 
 db.getSiblingDB("Proy2-MongoBD").Curriculum.deleteOne({ "_id": ObjectId("65be67c0d14335fa617496bc") })
+
+
+crear nuevo documento 
+db.getSiblingDB("Proy2-MongoBD").Curriculum.insertOne({
+   "_id": ObjectId(), // Se generará automáticamente un nuevo ObjectId
+   "Resumen": "Perfil profesional con experiencia en desarrollo de software.",
+   "DatosPersonales": {
+      "Nombre": "Ana García",
+      "Dirección": "Av. Principal, Edif. Los Robles, Piso 5, Apt. 503",
+      "Teléfono(s)": [
+         "+58 412-1234567"
+      ],
+      "Email": "ana.garcia@example.com",
+      "RedesSociales": {
+         "LinkedIn": "linkedin.com/in/anagarcia",
+         "Twitter": "@anagarcia_dev",
+         "Instagram": "@anagarcia"
+      }
+   },
+   "Educación": {
+      "Básica": "U.E.C María Montessori.",
+      "Media": "Colegio Los Pinos",
+      "Universitaria": "Universidad Central de Venezuela, Ingeniería en Sistemas",
+      "Otros": [
+         "Curso de Desarrollo de Aplicaciones Móviles",
+         "Certificación en Gestión de Proyectos (PMP)"
+      ]
+   },
+   "Laboral": {
+      "Pasantía": {
+         "Empresa": "Google",
+         "Cargo": "Desarrollador de Software",
+         "Período": "Febrero 2023 - Abril 2023"
+      },
+      "Trabajos": [
+         {
+            "Tipo": "Contratado",
+            "Empresa": "Microsoft",
+            "Cargo": "Ingeniero de Software",
+            "Período": "Mayo 2023 - Presente"
+         }
+      ]
+   },
+   "ConocimientosTécnicos": {
+      "OS": [
+         "Windows",
+         "Linux",
+         "macOS"
+      ],
+      "LenguajeDesarrollo": [
+         "JavaScript",
+         "Java",
+         "Python",
+         "Swift"
+      ],
+      "BasesDeDatos": [
+         "MongoDB",
+         "MySQL",
+         "PostgreSQL"
+      ],
+      "OtrosSoftwares": [
+         "Git",
+         "Visual Studio Code",
+         "Adobe Photoshop"
+      ]
+   },
+   "InteresesPersonales": [
+      "Fotografía",
+      "Senderismo",
+      "Cocina",
+      "Música"
+   ]
+})
 
 
 estas querys se usan en la shell de Mongodb Compass y todas funcionan de acuerdo a las necesidades de la busqueda 
