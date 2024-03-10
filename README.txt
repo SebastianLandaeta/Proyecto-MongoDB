@@ -1,21 +1,20 @@
-Proyecto 2 de la materia Sistemas de Bases de Datos 2.
+Proyecto 2 de la materia Sistemas de Bases de Datos 2: Crear una base de datos con MongoDB Compass y Atlas, la cual tenga una colección "Curriculum"
+y documentos dentro de ella, para que al momento de la presentación, se puedan realizar consultas a través del shell.
 
 Integrantes: Sebastián Landaeta (28.240.979).
              Pablo Jiménez (30.110.259).
-             María Martínez (24.412.465)
+             María Martínez (24.412.465).
 
 Link de Cluster: mongodb+srv://SebasLanda:10572820@cluster0.l2ydgpk.mongodb.net/
-<<<<<<< Updated upstream
-=======
 
-
-actualizacion de Datos
+# Consultas para la demostración #
+1) Actualizacion un campo de un documento específico.
 db.getSiblingDB("Proy2-MongoBD").Curriculum.updateOne(
    { "_id": ObjectId("65be67c0d14335fa617496bc") },
    { $set: { "campo_a_actualizar": "nuevo_valor" } }
 )
 
-hacer busquedas de interes 
+2) Hacer busquedas de interés.
 db.getSiblingDB("Proy2-MongoBD").Curriculum.findOne({ "_id": ObjectId("65be67c0d14335fa617496bc") })
 
 db.getSiblingDB("Proy2-MongoBD").Curriculum.find({
@@ -25,12 +24,10 @@ db.getSiblingDB("Proy2-MongoBD").Curriculum.find({
    ]
 })
 
-
-eliminar un documento a partir del ID 
+3) Eliminar un documento a partir del ID.
 db.getSiblingDB("Proy2-MongoBD").Curriculum.deleteOne({ "_id": ObjectId("65be67c0d14335fa617496bc") })
 
-
-crear nuevo documento 
+4) Crear un nuevo documento.
 db.getSiblingDB("Proy2-MongoBD").Curriculum.insertOne({
    "_id": ObjectId(), // Se generará automáticamente un nuevo ObjectId
    "Resumen": "Perfil profesional con experiencia en desarrollo de software.",
@@ -101,8 +98,3 @@ db.getSiblingDB("Proy2-MongoBD").Curriculum.insertOne({
       "Música"
    ]
 })
-
-
-estas querys se usan en la shell de Mongodb Compass y todas funcionan de acuerdo a las necesidades de la busqueda 
-
->>>>>>> Stashed changes
